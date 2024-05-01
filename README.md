@@ -30,15 +30,7 @@
 - Cao Văn Tình
 - Đặng Văn Hải
 - Đặng Phan Gia Đức
-- Hoàng Đặng Bảo Thiên
-- Lâm
-- Bùi Minh Khang
-- Đoàn Minh Quang
-- Hồ Quốc Thịnh
-- Lê Bá Trung
 - Hoàng Minh Tiến
 - Đặng Phương Nam
-- Hồ Trung Hiếu
-- Đoàn Lê Hiển Minh
-
+- 
 ##### Copyright © 2024 FAMS
