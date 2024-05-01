@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\FAMS_GROUP2.API.props" />
+</Project>
